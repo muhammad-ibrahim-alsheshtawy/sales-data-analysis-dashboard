@@ -1,7 +1,5 @@
 # Sales Data Analysis Dashboard (Power BI)
 
-![Dashboard](Sales Data Analysis.png)
-
 ## Overview
 This project focuses on analyzing sales data using Power BI to extract meaningful insights and support business decision-making.
 
@@ -23,3 +21,4 @@ This project focuses on analyzing sales data using Power BI to extract meaningfu
 
 ## Author
 Muhammad Ibrahim
+![Dashboard](dashboard.png)
